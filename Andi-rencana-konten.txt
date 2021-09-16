@@ -3,6 +3,8 @@ Rencana konten Andi :
 - Javascript 
 => ES6
 => Framework Javascript
-- Struktur data dasar
+ ^Angular
+ ^React
 - PHP Framework
+ ^Laravel
 - Vlogs
