@@ -5,6 +5,7 @@ Rencana konten Andi :
 => Framework Javascript
   ^viue
   ^React
+  ^angular
 - Struktur data dasar
 - PHP Framework
   ^laravel
